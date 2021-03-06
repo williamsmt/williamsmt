@@ -4,9 +4,10 @@ Hey, I'm Matt... Welcome to my collection of virtual goodies. I've been in the i
 
 #### What I'm Focusing On :construction_worker:
 
-1. IaC pipelines
-2. Config management
-3. Home lab overhead
+1. IaC CI/CD pipelines
+2. All things HashiCorp
+3. Config management
+4. Home lab overhead
 
 #### Home Lab Current State
 
