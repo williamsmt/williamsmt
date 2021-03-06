@@ -1,4 +1,6 @@
-### Hi there 👋
+### Is this thing on?? :bulb:
+
+Hey, I'm Matt... Welcome to my collection of virtual goodies. I've been in the industry for a few years, most recently working on Google Cloud. Keep me honest on the things that don't work, and a :+1: on the things that do!
 
 <!--
 **williamsmt/williamsmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
