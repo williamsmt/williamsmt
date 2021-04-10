@@ -9,7 +9,7 @@ Hey, I'm Matt... Welcome to my collection of virtual goodies. I've been in the i
 3. Config management
 4. Home lab overhead
 
-#### Lab Current Status:
+#### Lab Current Status: [detailed status page](https://mattslab.statuspage.io/)
 
 | Environment | Build Status |
 | --- | --- |
