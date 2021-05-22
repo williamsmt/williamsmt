@@ -16,7 +16,7 @@ Hey, I'm Matt... Welcome to my collection of virtual goodies. I've been in the i
 | vSphere Atlanta | TBD |
 | Google Cloud | TBD |
 
-#### vSphere Atlanta Lab Specs:
+#### Atlanta Lab Specs:
 - Compute: (3x) Dell R720 E5-2670 256GB RAM
   - OS: ESXi 7.0U1
 - Networking:
