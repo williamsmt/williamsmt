@@ -1,6 +1,6 @@
 ## Is this thing on?? :bulb:
 
-Hey, I'm Matt... Welcome to my collection of virtual goodies. I've been in the industry for a few years, most recently working on Google Cloud. Keep me honest on the things that don't work, and a :+1: on the things that do!
+Hey, I'm Matt... Welcome to my collection of virtual goodies. I've been in the industry for a few years, most recently working at Google Cloud. Keep me honest on the things that don't work, and a :+1: on the things that do!
 
 #### What I'm Focusing On :construction_worker:
 
