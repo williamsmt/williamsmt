@@ -18,10 +18,12 @@ Hey, I'm Matt... Welcome to my collection of virtual goodies. I've been in the i
 
 #### vSphere Atlanta Lab Specs:
 - Compute: (3x) Dell R720 E5-2670 256GB RAM
+  - OS: ESXi 7.0U1
 - Networking:
   - Core: HPE 3500yl-48G
   - ToR: (2x) Brocade VDX 6720-24
-- Storage: FreeNAS 11.3-U5 Dell R720 E5-2670 256GB RAM
+- Storage: (1x) Dell R720 E5-2670 256GB RAM
+  - OS: FreeNAS 11.3-U5
   - Cache: (2x) Intel DC P3600 SLOG mirror
   - Capacity: (36TB) Dell MD1200 in striped mirrors
 
