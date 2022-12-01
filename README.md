@@ -9,25 +9,6 @@ Hey, I'm Matt... Welcome to my collection of virtual goodies. I've been in the i
 3. Config management
 4. Home lab overhead
 
-#### Lab Current Status: [detailed status page](https://mattslab.statuspage.io/)
-
-| Environment | Build Status |
-| --- | --- |
-| vSphere Atlanta | TBD |
-| Google Cloud | TBD |
-
-#### Atlanta Lab Specs:
-- Compute: (3x) Dell R720 E5-2670 256GB RAM
-  - OS: ESXi 7.0U1
-- Networking:
-  - Core: HPE 3500yl-48G
-  - ToR: (2x) Brocade VDX 6720-24
-- Storage: (1x) Dell R720 E5-2670 256GB RAM
-  - OS: FreeNAS 11.3-U5
-  - Cache: (2x) Intel DC P3600 SLOG mirror
-  - Capacity: (36TB) Dell MD1200 in striped mirrors
-
-
 
 <!--
 **williamsmt/williamsmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
